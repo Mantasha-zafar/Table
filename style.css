@@ -1,0 +1,44 @@
+.table{
+width: 60%;
+max-width: 70%;
+border-collapse: 60px;
+margin: 70px;
+border-spacing: 0;
+border-radius: 20px;
+box-shadow:  0 10px 18px rgba(0, 0, 0, 0.2);;
+
+
+}
+td{
+    height: 45px;
+
+}
+body{
+background-color: #b19da7;
+
+
+}
+
+.tr1{
+background-color:#7a5169 ;
+
+
+
+}
+.tr2{
+    background-color:#8d627a ;
+}
+
+.tr{ 
+    background-color: #5f3f50;
+    font-size: large;
+    
+
+}
+
+table{
+    border-radius: 60px;
+}
+
+
+

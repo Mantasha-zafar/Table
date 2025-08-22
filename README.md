@@ -19,4 +19,4 @@ It was created as part of a frontend assignment to showcase how to organize tabu
 
 index.html
 style.css
-![Table](IMG.Table.PNG)
+![Table][(c:\Users\cc\Pictures\IMG.Table.PNGgit)]
